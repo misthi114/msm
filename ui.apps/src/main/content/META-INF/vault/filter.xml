@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/msm/clientlibs"/>
+    <filter root="/apps/msm/components"/>
+    <filter root="/apps/msm/i18n"/>
+</workspaceFilter>

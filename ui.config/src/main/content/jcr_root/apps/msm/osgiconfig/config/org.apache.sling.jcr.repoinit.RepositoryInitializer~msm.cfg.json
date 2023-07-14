@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/msm",
+        "create path (nt:unstructured) /content/dam/msm/jcr:content",
+        "set properties on /content/dam/msm/jcr:content\n  set cq:conf{String} to /conf/msm\n  set jcr:title{String} to \"msm\"\nend"
+    ]
+}
